@@ -5,4 +5,4 @@ SESSION      = "1BVtsOK0Bu1I72v-WyQ90YzRBFVZQ32dYeILX3E6U3YfR-xZzMIZFb94Kc1BA4GU
 DATABASE_URI = "mongodb+srv://inayatalibarkaat:enayatalibarkaat@cluster0.1gt1a4m.mongodb.net/?retryWrites=true&w=majority"
 LOG_CHANNEL  = -1001916792320
 ADMIN        = 1251962299
-CHANNEL      = "@moviesworldd7800"
+CHANNEL      = "moviesworldd7800"
